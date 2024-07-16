@@ -92,11 +92,5 @@ Detalhamento tópico (GET) - /topicos/{idTopico}
    ```
 
 
-## Contribuidores
-- Michel Diener Braga
-- [michel.diener@gmail.com]
-
-Sinta-se à vontade para contribuir para este projeto enviando solicitações de pull ou relatando problemas.
-
 ## Licença
 [Licença Apache2](LICENSE)
